@@ -35,6 +35,17 @@ Activate the environment and go into the relevant directory and install streamli
 Run the python file as below.And it will open up a new tab in the browser with the web application.
 ![image](https://user-images.githubusercontent.com/61721484/158934903-a3963651-cf64-4f6c-ba4c-c4cdbcd3b81d.png)
 
+## Deploying to Heroku
+I have used uploading the files using Github repo. You can get a good understanding the way of doing it by watching below Krish Naiks video.
+https://www.youtube.com/watch?v=IWWu9M-aisA
+
+## Future Enhancements
+Next step of this project is to provide the user to input values using excel files and evolve the model to have timeline as well. (Retrieve monthly production plan). Improving the UI as streamlit is improving its features day by day.  
+
+## Contact Me
+You can contact me suresh.abeyweera@gmail.com . Send your suggestions to improve and Feedbacks. Thank you.
+
+
 
 
 
